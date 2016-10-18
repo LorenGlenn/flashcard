@@ -6,7 +6,7 @@ h3 {
   padding-bottom: 25px;
 }
 .container-fluid .col-xs-2 {
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   padding: 50px 0 50px 0;
   height: 128px;
   background-color: papayawhip;
@@ -21,4 +21,8 @@ h3 {
 
 .definition {
   display: none;
+}
+
+.definition-background {
+  color: cadetblue;
 }
